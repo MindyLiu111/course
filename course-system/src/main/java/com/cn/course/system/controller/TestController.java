@@ -1,4 +1,4 @@
-package com.cn.course.system.contriller;
+package com.cn.course.system.controller;
 
 
 import org.springframework.web.bind.annotation.GetMapping;

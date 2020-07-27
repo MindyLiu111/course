@@ -11,6 +11,7 @@
     <modules>
         <module>course-eureka</module>
         <module>course-system</module>
+        <module>course-gateway</module>
     </modules>
 
     <parent>
