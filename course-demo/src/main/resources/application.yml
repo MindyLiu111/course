@@ -1,8 +1,8 @@
 server:
-  port: 9001
+  port: 8888
 spring:
   application:
-    name: system
+    name: demo
   redis:
       host: 39.106.204.4
       port: 6379
