@@ -13,6 +13,7 @@
         <module>course-system</module>
         <module>course-gateway</module>
         <module>course-demo</module>
+        <module>course-server</module>
     </modules>
 
     <parent>
